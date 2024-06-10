@@ -1,23 +1,26 @@
 .pic1 {
   background-color: #000;
   background-size: cover;
-  background-image: url(pic1.jpg);
+  background-image: url(/pic1.jpg);
 }
 
 .pic2 {
   background-color: #000;
   background-size: cover;
-  background-image: url(pic2.jpg);
+  background-image: url(/pic2.jpg);
 }
 
 .pic3 {
   background-color: #000;
   background-size: cover;
-  background-image: url(pic3.avif);
+  background-image: url(/pic3.jpg);
 }
 .pic {
   width: 100%;
   height: 100vh;
+}
+img {
+  background-size: cover;
 }
 
 h3,
