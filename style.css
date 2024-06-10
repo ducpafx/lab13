@@ -1,19 +1,19 @@
 .pic1 {
   background-color: #000;
   background-size: cover;
-  background-image: url(/pic1.jpg);
+  background-image: url(https://images.unsplash.com/photo-1716872491847-03c73619a25d?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
 }
 
 .pic2 {
   background-color: #000;
   background-size: cover;
-  background-image: url(/pic2.jpg);
+  background-image: url(https://images.unsplash.com/photo-1716872491897-078d9b89be49?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDV8fHxlbnwwfHx8fHw%3D);
 }
 
 .pic3 {
   background-color: #000;
   background-size: cover;
-  background-image: url(/pic3.jpg);
+  background-image: url(https://images.unsplash.com/photo-1716872491340-4626a22c582d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDd8fHxlbnwwfHx8fHw%3D);
 }
 .pic {
   width: 100%;
